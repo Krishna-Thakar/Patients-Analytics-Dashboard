@@ -31,4 +31,4 @@ The dataset includes anonymized patient data covering various metrics, such as:
 3. Explore the interactive visualizations and filters.
 
 ## Contact
-For any questions, feel free to reach out at [your email or LinkedIn profile].
+For any questions, feel free to reach out at thakarkrishna74@gmail.com
